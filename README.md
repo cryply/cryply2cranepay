@@ -23,7 +23,7 @@ So this tool was written.
 5.  don't create any cranepay wallet - it will be created automatically.
 6.  open windows console - `c:\data\start_cryply_node.cmd`
 7.  open windows console - `c:\data\start_cranepay_node.cmd`
-8.  wait 20 sec - nodes need to finish startup procedure.
+8.  wait 20-60 sec - cranepay nodes need to finish startup procedure - u can check in correspondent window.
 9.  open windows console - `c:\data\start.cmd`
 10. if you get errors during migration f.e. your cryply wallet encrypted - use `c:\data\disable_password.cmd` script. But first edit it - put ur wallet password.
 11. as result you should get file in c:\data\cranepay\wallet.dat
