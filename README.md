@@ -25,10 +25,10 @@ Procedure:
 7.  open windows console - `c:\data\start_cranepay_node.cmd`
 8.  wait 20 sec - nodes need to finish startup procedure.
 9.  open windows console - `c:\data\start.cmd`
-10. if you get errors during migration f.e. your cryply wallet encrypted - use disable_password.cmd script. But first edit it - put ur wallet password.
+10. if you get errors during migration f.e. your cryply wallet encrypted - use `c:\data\disable_password.cmd` script. But first edit it - put ur wallet password.
 11. as result you should get file in c:\data\cranepay\wallet.dat
-12. copy that file to your cranepay data folder (backup original if u have any money on it).
-13. You can try also call cranepay-qt.exe -wallet=newwallet.dat. This way you can keep as many wallets as yopu wish.
+12. copy that file to your cranepay data folder (backup original if u have any CRPs on it).
+13. You can try also call cranepay-qt.exe -wallet=newwallet.dat. This way you can use as many wallets as you wish.
 
 Please leave us feedback.
 
