@@ -2,7 +2,7 @@
 
 wallet migration tools
 
-Disclaimers: We do not take any responsibility for losing any money. Use this tool on your own risk.
+Disclaimers: We do not take any responsibility for any losing of your CRPs. Use this tool on your own risk.
 
 This tool dedicated for migration of private keys from Cryply wallet to CranePay wallet.
 While it is enough to send money from Cryply to CranePay some people need to keep all addresses f.e Exchange.
@@ -34,4 +34,4 @@ Please leave us feedback.
 
 Cryply/CranePay Dev Team.
 
-Disclaimers: We do not take any responsibility for losing any money. Use this tool on your own risk.
+Disclaimers: We do not take any responsibility for any losing of your CRPs. Use this tool on your own risk.
