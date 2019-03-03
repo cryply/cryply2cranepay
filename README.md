@@ -1,6 +1,6 @@
 # cryply2cranepay
 
-wallet migration tools
+**wallet migration tools**
 
 Disclaimers: We do not take any responsibility for any losing of your CRPs. Use this tool on your own risk.
 
@@ -8,12 +8,12 @@ This tool dedicated for migration of private keys from Cryply wallet to CranePay
 While it is enough to send money from Cryply to CranePay some people need to keep all addresses f.e Exchange.
 So this tool was written.
 
-Prerequisites:
+**Prerequisites:**
 
 1. NodeJS https://nodejs.org/en/download/
 2. Windows 64bit. If you need 32bit download urself content of /data/bin from cryply and cranepay githubs.
 
-Procedure: 
+**Procedure:** 
 
 0.  BACKUP your original cryply wallet. If u lose any CRP we take no responsibility.
 1.  download repository.
@@ -29,9 +29,8 @@ Procedure:
 11. as result you should get file in c:\data\cranepay\wallet.dat
 12. copy that file to your cranepay data folder (backup original if u have any CRPs on it).
 13. You can try also call cranepay-qt.exe -wallet=newwallet.dat. This way you can use as many wallets as you wish.
+14. Please leave us feedback.
 
-Please leave us feedback.
-
-Cryply/CranePay Dev Team.
+**Cryply/CranePay Dev Team.**
 
 Disclaimers: We do not take any responsibility for any losing of your CRPs. Use this tool on your own risk.
